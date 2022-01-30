@@ -120,6 +120,24 @@
     },
     {
       "id": "12"
+    },
+    {
+      "name": "tarzan",
+      "species": "monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "king kong",
+      "species": "gorilla",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
